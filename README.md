@@ -63,26 +63,32 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 ## Data :
-![alt text](output/o1.png)
+![image](https://github.com/user-attachments/assets/a1fe20ce-d517-453a-b163-e807f9302667)
+
 
 ## Transformed Data:
-![alt text](output/o2.png)
+![image](https://github.com/user-attachments/assets/2f12a6e5-f70d-47b0-b15e-2e0b65c085f0)
+
 
 ## X and Y values:
-![alt text](output/o3.png)
-![alt text](output/o4.png)
+![image](https://github.com/user-attachments/assets/6ab25c8f-b6a7-4167-8ccb-a8485f1904aa)
+
+![image](https://github.com/user-attachments/assets/1784d3b2-ad99-44f7-b41b-1e719df311d7)
+
 
 ## Model:
-![alt text](output/o5.png)
+![image](https://github.com/user-attachments/assets/347acfc9-727d-484b-92bf-db927c228c00)
 
 ## Accuracy :
-![alt text](output/o6.png)
+![image](https://github.com/user-attachments/assets/0597ad9f-1c51-4030-bbd7-91b22a8f43c9)
+
 
 ## Classifiaction:
-![alt text](output/o7.png)
+![image](https://github.com/user-attachments/assets/3bbfabcc-ff40-465d-803d-665ee1fe0d1e)
+
 
 ## Prediction:
-![alt text](output/o8.png)
+![image](https://github.com/user-attachments/assets/5c9202b2-1e81-4a40-8030-e286a4765044)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
